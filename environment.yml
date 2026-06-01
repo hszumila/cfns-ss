@@ -1,0 +1,7 @@
+name: tutorial-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - xrootd
+  - jupyterlab
