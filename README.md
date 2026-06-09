@@ -5,3 +5,6 @@ Welcome to the CFNS EIC summmer school! In this workshop, we will be exploring m
 -From here, you will be in eic-shell in the terminal. You can open the Jupyter Lab browser if it does not open automatically: jupyter lab --ip=0.0.0.0 --no-browser --ServerApp.token='' --ServerApp.password='' --allow-root
 
 To begin, open the Introduction.ipynb.
+
+The order we will work through:
+Introduction, Tutorial Setup, Exploring available files, Working with Uproot, Working with Simulation output, Analyzing output, Running full simulations
