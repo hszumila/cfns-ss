@@ -1,7 +1,7 @@
 {
     "name": "eic-shell",
     "image": "ghcr.io/eic/eic_xl:26.05.0-stable",
-    "postStartCommand": "git pull && jupyter lab --ip=0.0.0.0 --no-browser --ServerApp.token='' --ServerApp.password=''",
+    "postStartCommand": "git pull",
     "forwardPorts": [8888],
     "portsAttributes": {
         "8888": {
